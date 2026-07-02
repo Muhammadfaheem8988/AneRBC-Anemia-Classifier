@@ -99,5 +99,5 @@ Bash
 | 6 | Custom 3-Layer CNN | Custom | 50% | 0.33 | ≈ 51.5 M |
 
 
-Full analysis, learning curves, and the detailed XAI critique can be found in the accompanying Critical Evaluation Report.
+Full analysis, learning curves, and the detailed XAI critique can be found in the accompanying [Critical Evaluation Report](https://github.com/Muhammadfaheem8988/AneRBC-Anemia-Classifier/blob/main/report/Critical_Evaluation_Report.docx).
 
