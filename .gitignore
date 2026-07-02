@@ -1,19 +1,23 @@
-# Byte-compiled / optimized / DLL files
-__pycache__/
+Byte-compiled / optimized / DLL files
+
+pycache/
 *.py[cod]
 *$py.class
 
-# Data directories
-data/
-raw_data/
-AneRBC_raw_data/
+Data directories (Root level only)
 
-# Model checkpoints
-saved_models/
+/data/
+/raw_data/
+/AneRBC_raw_data/
+
+Model checkpoints
+
+/saved_models/
 *.pth
 *.pkl
 
-# Environments
+Environments
+
 .env
 .venv
 env/
@@ -22,5 +26,6 @@ ENV/
 env.bak/
 venv.bak/
 
-# Jupyter Notebook checkpoints
+Jupyter Notebook checkpoints
+
 .ipynb_checkpoints
