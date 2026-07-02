@@ -101,3 +101,5 @@ Bash
 
 Full analysis, learning curves, and the detailed XAI critique can be found in the accompanying [Critical Evaluation Report](https://github.com/Muhammadfaheem8988/AneRBC-Anemia-Classifier/blob/main/report/Critical_Evaluation_Report.docx).
 
+Muhammad Aryan Ali
+hazara university
